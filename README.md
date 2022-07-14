@@ -13,7 +13,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 - 🎓 &nbsp; I’m currently a senior student at Al Azhar Unversity.
 - 💼 &nbsp; Working as an Embedded firmware internship at GOODIX Egypt.
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](mahmoudkarem.me@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel) [Gmail](https://www.mahmoudkarem.me@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 

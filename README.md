@@ -51,4 +51,3 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
 </p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
